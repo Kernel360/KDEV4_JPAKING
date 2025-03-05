@@ -1,0 +1,25 @@
+{
+  // "key" : "value"
+  // "array" : [ ] <- 타입은 동일해야함!
+
+
+
+
+}
+
+
+/*
+1. snake case
+_
+user_name
+
+user_age
+
+2. canmel case
+
+소문자 대문자로 구분
+userName
+
+userAge
+
+*/
